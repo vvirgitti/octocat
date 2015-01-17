@@ -1,1 +1,1 @@
-What is the upstream remote used for?
+The upstream remote is used in order to send back to the master branch all the changes that have been done on a local branch. By doing this, we make sure that the master branch is always up to date.

@@ -1,1 +1,1 @@
-What does git clone do?
+Git Clone enables us to copy an entire repository on a local machine. It will create a new folder and will copy all the files from the repo.

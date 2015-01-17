@@ -1,1 +1,1 @@
-What is a branch?
+A branch is a version of the main project (master branch) that can contain msome modifications. For example a branch can be used in order to fix a bug: ithe developer will be able to work on that bug without endangering the master branch. Once all the changes are done and checked, the branch can be merged with the master branch.
